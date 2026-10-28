@@ -2,6 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     background: #eeeeee;
+    background-color: #f0f8ff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -48,3 +49,4 @@ button {
 button:hover {
     background: #bbbbbb;
 }
+background-color: #f0f8ff;
